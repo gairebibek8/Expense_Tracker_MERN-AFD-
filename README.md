@@ -22,10 +22,4 @@ change config.env file in config folder
  # Frontend only
  npm run client
  
- # Build client
- cd client
- npm run build
- 
- # Prod
- npm start
 ```
