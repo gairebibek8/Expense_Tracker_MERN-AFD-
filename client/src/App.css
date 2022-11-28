@@ -165,7 +165,7 @@ input[type='number'] {
   position: absolute;
   top: 50%;
   left: 0;
-  transform: translate(-100%, -150%);
+  transform: translate(-100%, -50%);
   opacity: 0;
   transition: opacity 0.3s ease;
   border-radius: 25px;
